@@ -2,6 +2,14 @@
 
 这是一个无构建依赖的静态站点，核心叙事是“把复杂业务做成真正跑起来的增长系统”。
 
+## 在线地址
+
+https://zhaoruwang.github.io/
+
+源码仓库：
+
+https://github.com/zhaoruwang/zhaoruwang.github.io
+
 ## 本地预览
 
 ```bash

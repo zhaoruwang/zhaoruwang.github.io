@@ -1,8 +1,16 @@
 # Sites 发布交接
 
-当前站点是无依赖静态页面，入口为 `index.html`，可以直接作为 Sites 的源目录。
+当前站点已通过 GitHub Pages 正式发布：
 
-## 发布前
+```text
+https://zhaoruwang.github.io/
+```
+
+因此不再依赖 ChatGPT 或 Sites 账户。本文件保留，作为未来如需迁移到 Sites 时的交接说明。
+
+当前站点是无依赖静态页面，入口为 `index.html`，也可以作为 Sites 的源目录。
+
+## 如需迁移到 Sites
 
 1. 使用 ChatGPT 账户登录 Codex。
 2. 加载 `@Sites`。
